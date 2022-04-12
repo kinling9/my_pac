@@ -3,7 +3,7 @@
  * GFWList Last-Modified: 2020-12-26 00:34:23
  */
 
-var proxy = 'PROXY 127.0.0.1:10809';
+var proxy = 'http://127.0.0.1:10809';
 var rules = [
     [
         [],
